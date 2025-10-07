@@ -1,7 +1,9 @@
 ## Daily Calorie Tracker CLI
 
 Author: Mehak
+
 Date: 06-10-2025
+
 Course: Programming for Problem Solving using Python
 
 
