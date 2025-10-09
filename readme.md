@@ -8,6 +8,10 @@ Course: Programming for Problem Solving using Python
 
 
 ---
+## output :
+<img width="645" height="385" alt="output" src="https://github.com/user-attachments/assets/a1d28a4f-0abd-4530-8ca9-068e202ac1e9" />
+<img width="308" height="312" alt="calorie_txt" src="https://github.com/user-attachments/assets/3c4f4a08-3396-4a7b-9259-796965144195" />
+
 
 Project Overview
 
